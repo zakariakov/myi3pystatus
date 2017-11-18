@@ -21,6 +21,8 @@ replace this line status_command i3status
 
 ::
 
+    pip3 install git+https://github.com/enkore/i3pystatus.git
+
 bar {
 
   font pango:Inconsolata-dz for Powerline  10
